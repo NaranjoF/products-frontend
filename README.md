@@ -1,4 +1,4 @@
-# Products API
+# Products UI
 
 This is a frontend application that offers an intuitive user interface for performing CRUD operations to manage products. Built with Vite.js and React.
 
